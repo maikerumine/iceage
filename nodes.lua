@@ -1,6 +1,6 @@
 
 
---minetest.register_alias("default:snowblock", "iceage:snowblock")
+minetest.register_alias("default:snowblock", "iceage:snowblock")
 
 minetest.register_node("default:snowblock", {
 	description = "Snow Block",
